@@ -7,37 +7,18 @@ redirect_from:
   - /about.html
 ---
 
-<!--
-  ============================================================================
-  SECTION 1: ABOUT  (10 points)  |  Suggested length: 100–200 words
-  ============================================================================
-  This is the first page visitors see. Write a brief, professional
-  introduction for someone who does not know you — imagine a hiring manager
-  doing a 30-second scan. This is NOT a personal bio.
 
-  Include:
-    - Your name and academic program
-    - One or two sentences about your professional interests / career direction
-    - One sentence on why bioinformatics is relevant to your goals
-    - (Optional) a professional photo — see the guide for how to add one
+Hello, I am Nathan A Lee, currently a student in the BAB Bachelor of Applied Biotechnology
+(Honours) Program at Conestoga College (Doon Campus, Kitchener).
 
-  HOW TO EDIT:
-    - Replace the placeholder text below with your own.
-    - Keep the "---" block at the very top of this file exactly as it is.
-    - Delete these grey instruction notes (everything between the
-      <!-- and --​> marks) before you submit.
-  ============================================================================
--->
+I volunteered at community construction projects and other such community initiatives, then aged out of the Royal Canadian Cadet Program as a Master Warrant Officer with paramilitary training (no coin), Gold Star XPS training, subordinate class teaching/leading, and sports and fitness instructor pathway. 
+I graduated from the Conestoga College Biotechnology diploma program in 2019 with high distinction, and then worked for Activation Laboratories for five years as a Fire Assay Technician. My goal is to gain more industry experience in soil microbiome and plant ecology before returning to pursue a secondary degree or a master's in computer science and artificial intelligence. 
+During those five years at Actlabs, I mainly worked in the Fire Assay Department, performing a mix of physical labour and wetlab work. Physical labour: 50lbs bags of lead monoxide flux, and blast furnace crucible loading, pouring, and deslaging, workplace cleaning and sanitation, equipment calibration, maintenance/repair, and final inspection prep for metal digestion of isolated/extracted precious-metal matrix.
+Benchtop work: evaluating in-house complaints and root cause failures, preparing silver, gold, and nickel buttoned cupel beads/'dores' for ICP-OES, AAS, gravimetric, and other analytical techniques. I was cross-trained in warehouse inventory and disposal, rock sample preparation, crucible matrix and solution preparation, LIMS data checks for quality or heavy-metal waste disposal, and JHSC safety meetings/walks or equipment inspections.
 
-Hello — I'm **[Your Name]**, a student in the Bachelor of Applied Biotechnology
-(Honours) program at Conestoga College.
+My capstone research or seminar presentation focused on bioremediation of heavy-metal-contaminated soil using microbes or fungi. While the project followed a general approach to clean up contaminated soil or water bodies, the application of bioinformatics to my future research will aim to gain a better understanding of computational models and the genetic analysis of auxotrophic remediation microorganisms for plastic and other contaminants.
 
-[Write one or two sentences about your professional interests or the direction
-you want your career to take. Be specific: what kind of work in biotechnology
-or bioinformatics interests you, and why?]
-
-[Write one sentence explaining why bioinformatics matters for where you want to
-go. This connects the skills in this portfolio to your goals.]
+Bioinformatics, specifically, will allow me to prepare for my continued education in computer science and will help me with proteomics research on remedial microorganisms. 
 
 This portfolio documents the bioinformatics tools, methods, and skills I have
 developed, and how I have applied them.
