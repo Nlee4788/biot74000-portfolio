@@ -4,52 +4,19 @@ title: "Bioinformatics Toolkit"
 author_profile: true
 ---
 
-<!--
-  ============================================================================
-  SECTION 2: BIOINFORMATICS TOOLKIT  (30 points)
-  ============================================================================
-  A curated, annotated catalogue of the tools, databases, file formats, and
-  methods you worked with in this course. This is the POLISHED version of your
-  Course Learning Log — not a copy-paste, but a professional re-write,
-  organized by CATEGORY (not by unit).
-
-  FOR EACH ENTRY, INCLUDE:
-    - Tool / database name
-    - 1–2 sentences describing one specific use example from the course
-      that YOU performed
-    - One note on a strength or a limitation
-
-  SUGGESTED CATEGORIES (use the ones that fit your work; add or remove as needed):
-    Sequence Analysis Tools · Databases & Data Retrieval ·
-    Genome & Transcriptome Analysis · Protein Structure & Function ·
-    Computational & Scripting Tools · Data Visualization
-
-  Entries copied word-for-word from documentation will not receive full marks —
-  use your own words. Quality and honesty matter more than the number of entries.
-
-  HOW TO EDIT:
-    - Replace the example entries below with your own.
-    - Keep the same simple pattern: a "##" category heading, then one
-      "###" heading per tool, then your notes underneath.
-    - Delete these grey instruction notes before you submit.
-  ============================================================================
--->
-
-_A curated catalogue of the tools, databases, and methods I have worked with,
-organized by what they are used for._
+_Tools, databases, and methods catalogue I have worked with.
+curated and organized by their use._
 
 ## Sequence Analysis Tools
 
-### BLAST (Basic Local Alignment Search Tool)
+### NCBI-BLAST (Basic Local Alignment Search Tool)
 
-**Use example:** [Describe one specific thing you did with BLAST in this course
-— e.g. "I used BLASTn to identify the closest known relatives of a query
-sequence during the Unit 2 alignment activity, and interpreted the E-values and
-query coverage to judge which hits were meaningful."]
+**Use example:** BLASTp was used to find TP53 (Human Tumour Protein 53) in a database and determine the closest known relatives of a search for alignment comparison in lecture examples. A sequence query was also compared with examples of lower annotated quality primary sources. The E-values and confidence were observed for which hits were meaningful. 
+Used to analyze TP53 (NM_000546) and compare against nucleotide collection databases 
+The second use was for the biodegradation of bphA1 and checking sequence homologs. Partial success with the whole genome of the fungal organism, but the exact gene was new and couldn't be located. 
 
-**Strengths / limitations:** [One honest note — e.g. "Fast and easy for finding
-similar sequences, but the top hit by score is not always the most biologically
-relevant, so results need careful interpretation."]
+**Strengths / limitations:** Strengths: Simple and fast identification or locating of homologous genes, species, and conserved regions
+Weakness: Similarity does not prove function. Similar sequences are shown, but the top hit by relevance score is not certain. Care is needed to avoid mix-ups
 
 ---
 
@@ -79,9 +46,3 @@ relevant, so results need careful interpretation."]
 
 **Strengths / limitations:** [Your text here.]
 
----
-
-<!--
-  Add more categories and entries by copying the pattern above.
-  Aim for a toolkit that reads like notes a working professional would keep.
--->
