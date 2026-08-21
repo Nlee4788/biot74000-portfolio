@@ -12,22 +12,28 @@ _Tools, databases, and methods catalogue I have worked with. Curated and organiz
 ### Geneius, file type .fasta, .fastq, plain text/.ab1 ,  .scf, Biosystems chromatograms
 
 **Use example:** 
+
 Molecular Biology II course, Applied Biosystems chromatogram. The analysis of kale samples vs other vegetables or fish samples.
 
 **Strengths / Limitations:** 
+
 Strength: 
 Standard Chromatogram Format is not in-depth and compares to the company's available information 
+
 Limitations/ Issues: 
 not other databases of choice unless specialized payment
 
 ### Chromas, designed for viewing and editing chromatograms from automated DNA sequencing
 
 **Use example:** 
+
 Molecular Biology I course, Free software tool, plasmid and gene determination of food 
 
 **Strengths / Limitations:** 
+
 Strength: 
 Strong with easy visuals and informative confidence pieces
+
 Limitations/ Issues: 
 Weak at the beginning and end of confidence
 
@@ -324,3 +330,4 @@ Steep learning curve if new to programming. Opening .csv files after download ca
 END 
 
 
+title: "Bioinformatics Toolkit"
