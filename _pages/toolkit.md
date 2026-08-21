@@ -32,9 +32,25 @@ Weakness: Similarity does not prove function. Similar sequences are shown, but t
 
 ### UniProt
 
-**Use example:** [Describe one specific retrieval or lookup you performed.]
+**Use example:** Protein function of query. Searched the acrB protein sequence for an in-class activity (Bacteria antimicrobial resistance). Annotation quality assessment and example of antimicrobial resistance and multidrug efflux pumps. UniProtKB/Swiss-Prot, file type- FASTA, TSV, XML.
 
-**Strengths / limitations:** [One honest note.]
+**Strengths / limitations:** Strength: High-quality reviewed annotations of the secondary database
+Weakness/ Issues: Not all proteins reviewed, and some notes recorded on paper for the pipeline, have been misplaced. 
+
+
+---
+
+## Databases & Data Retrieval
+
+### GenBank RefSeq
+
+**Use example:** Used to obtain the TP53 NM_000546 reference sequence during an in-class activity for the human tumour gene. File type- FASTA, Curated reference sequences. 
+
+**Strengths / limitations:** Strength: High-quality reference data, Non-redundant and easy to check relevance to search or related hits. 
+Weakness/Issues: Some entries are temporary, provisional, and prone to version changes. The website had a name change and a new version was called something else. Needs to stay current with workflow history records, alongside keeping duplicates of older versions if necessary. 
+
+
+
 
 ---
 
@@ -45,4 +61,6 @@ Weakness: Similarity does not prove function. Similar sequences are shown, but t
 **Use example:** [Your text here.]
 
 **Strengths / limitations:** [Your text here.]
+
+title: "Bioinformatics Toolkit"
 
