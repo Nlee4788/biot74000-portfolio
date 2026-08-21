@@ -7,7 +7,9 @@ author_profile: true
 
 _Tools, databases, and methods catalogue I have worked with. Curated and organized by their use. This shows my beginner's skills, where very little is something I could do independently_
 
-## [IMPORTANT NOTE: THIS SHOWCASES GENERAL SCRIPTING PLOTS IN RSTUDIO OR SEQUENCE DATABASE RETRIEVAL. THIS CATALOGUE IS NOT A COURSE SUMMARY. NONE OF THE TOOLS ARE THINGS I COULD DO INDEPENDENTLY. THIS IS BASED ON A BEGINNER'S BIOINFORMATICS SKILL SET AND MOSTLY REFLECTS EXPERIENCE AND ACTIVITIES NEEDING MORE PRACTICE FOR FUTURE ADVANCEMENT. THE PARTS OF IT THAT DO NOT GO INTO DETAIL ARE DEVELOPMENTAL REFLECTION AREAS. Nothing has been copied from coursework; it is based on checkpoint progression presented in my own words. The use of AI was to organize information created/ recorded from/into course logs, not generated from nothing.]  
+## [IMPORTANT NOTE: THIS SHOWCASES GENERAL SCRIPTING PLOTS IN RSTUDIO OR SEQUENCE DATABASE RETRIEVAL. THIS CATALOGUE IS NOT A COURSE SUMMARY. NONE OF THE TOOLS ARE THINGS I COULD DO INDEPENDENTLY. THIS IS BASED ON A BEGINNER'S BIOINFORMATICS SKILL SET AND MOSTLY REFLECTS EXPERIENCE AND ACTIVITIES NEEDING MORE PRACTICE FOR FUTURE ADVANCEMENT. THE PARTS OF IT THAT DO NOT GO INTO DETAIL ARE DEVELOPMENTAL REFLECTION AREAS.]  
+
+###  Nothing has been copied from coursework; it is based on checkpoint progression presented in my own words. The use of AI was to organize information recorded in course logs, not to generate it from nothing. 
 
 ---
 
