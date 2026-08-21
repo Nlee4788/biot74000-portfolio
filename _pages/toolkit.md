@@ -305,10 +305,10 @@ Domain predictions are not always a functional proof
 Visualization of residue-level effects, such as NPR3 Arg428
 
 **Strengths / Limitations:** 
-Strength: 
-High-quality 3D visualization
-Limitations/ Issues: 
-Learning curve
+
+Strength: High-quality 3D visualization
+
+Limitations/ Issues: Learning curve
 
 ---
 
@@ -320,14 +320,15 @@ Learning curve
 A Bioinformatics-published article and paper were paired with an RStudio script (with very messy plant growth data). The program has flower and seed data included, and used the script suggestions of swirl (AI helper) to create readable plots of this data. Uses .csv file type.
 
 **Strengths / Limitations:** 
+
 Strength:  
 Excellent for genomics and transcriptomics
+
 Limitations/ Issues: 
 Steep learning curve if new to programming. Opening .csv files after download can break readability (Needs to remain untouched). 
 
 ---
 
 END 
+Bottom
 
-
-title: "Bioinformatics Toolkit"
