@@ -7,7 +7,7 @@ author_profile: true
 _Tools, databases, and methods catalogue I have worked with.
 curated and organized by their use._
 
-## Sequence Analysis Tools
+## Sequence Analysis Tool
 
 ### NCBI-BLAST (Basic Local Alignment Search Tool)
 
@@ -30,12 +30,12 @@ Weakness: Similarity does not prove function. Similar sequences are shown, but t
 
 ## Databases & Data Retrieval
 
-### UniProt
+### UniProt and Blast
 
-**Use example:** Protein function of query. Searched the acrB protein sequence for an in-class activity (Bacteria antimicrobial resistance). Annotation quality assessment and example of antimicrobial resistance and multidrug efflux pumps. UniProtKB/Swiss-Prot, file type- FASTA, TSV, XML.
+**Use example:** Protein function of query. Searched the acrB protein sequence for an in-class activity (Bacteria antimicrobial resistance). Annotation quality assessment and example of antimicrobial resistance and multidrug efflux pumps. The first assignment tried bphA1 using (Burkholderia xenovorans- bioremediation with environmental biotech) but failed to find the protein. The Escherichia coli acrB protein/gene, related to antimicrobial resistance and microbial genomics, was sought instead. This was easier to find due to the widespread study of E. coli. UniProtKB/Swiss-Prot, file type- FASTA, TSV, XML.
 
 **Strengths / limitations:** Strength: High-quality reviewed annotations of the secondary database
-Weakness/ Issues: Not all proteins reviewed, and some notes recorded on paper for the pipeline, have been misplaced. 
+Weakness/ Issues: Not all proteins were reviewed, and some notes recorded on paper for the pipeline have been misplaced.  
 
 
 ---
@@ -50,17 +50,34 @@ Weakness/ Issues: Not all proteins reviewed, and some notes recorded on paper fo
 Weakness/Issues: Some entries are temporary, provisional, and prone to version changes. The website had a name change and a new version was called something else. Needs to stay current with workflow history records, alongside keeping duplicates of older versions if necessary. 
 
 
+---
+
+## Computational and Scripting Tool
+
+### RStudio
+
+**Use example:** A Bioinformatics published article and paper was paired with an RStudio script (had plant growth data that was very messy). The program has flower and seed data included and used the script suggestions of swirl (AI helper) to create readable plots of this data. Uses .csv file type.
+
+**Strengths / limitations:** limitation:  
+Strength: Excellent for genomics and transcriptomics
+Limitation: Steep learning curve if new to programming. Opening .csv files after download can break readability (Needs to remain untouched). 
 
 
 ---
 
+
 ## Data Visualization
 
-### [Tool Name]
+### Excel
 
-**Use example:** [Your text here.]
+**Use example:** Bioinformatics, plant growth messy, flower data, seed data. uses .csv file type.
 
-**Strengths / limitations:** [Your text here.]
+**Strengths / limitations:** limitations: Opening the file after download or any time may break readability or interpretability by RStudio for the machine software at random. Needs to remain untouched. 
+
+---
+
 
 title: "Bioinformatics Toolkit"
+
+
 
