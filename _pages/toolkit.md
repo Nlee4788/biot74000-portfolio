@@ -272,7 +272,7 @@ Clinical significance classifications
 Limitations/ Issues: 
 Interpretations may conflict
 
-### (need more practice) dbSNP, file type- VCF, Variant position repository
+### (Need more practice) dbSNP, file type- VCF, Variant position repository
 
 **Use example:** 
 Used to identify variant locations of seed expression in tomatoes
@@ -328,7 +328,7 @@ Experimentally validated structures
 Limitations/ Issues: 
 Not all proteins have structures
 
-### (need future practice) InterPro, file type- multi/ Multiple formats, Domain and functional annotation
+### (Need future practice) InterPro, file type- multi/ Multiple formats, Domain and functional annotation
 
 **Use example:** 
 Identification of NPR3 functional domains
@@ -371,9 +371,8 @@ Steep learning curve if new to programming. Opening .csv files after download ca
 
 ---
 
-END 
-Bottom
+END  
+Bottom 
 
-title: "Bioinformatics Toolkit"
-
+title: "Bioinformatics Toolkit" 
 
