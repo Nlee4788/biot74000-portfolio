@@ -20,5 +20,4 @@ Initial fungal growth followed the expected inhibition-concentration trend, but 
 
 The bioinformatics data enabled real-time updates to the quality plots from the Excel pages we prepared. The script is reproducible, so problems can be discovered step by step. What would have taken a very long time took only a moment to search up new information and to apply a new quality onto the plot without the use of complex ribbon or troubleshooting learning. Versions are easy to see for credibility, and RStudio recommends ways to improve the process.
 
-title: "Capstone Connection"
-
+END
