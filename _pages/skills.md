@@ -14,8 +14,10 @@ _Skills I can perform independently, explain to others, and apply in a new situa
 
 | Skill / Tool | What I can do with it / Experience Level |
 |---|---|
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
+| Excel Operations | Intermediate with creating tables, plots of data, and using cell equations |
+| Workflow records and pipeline building | Documentation of trials, versions, thoughts, and troubleshooting / problem-solving |
+| Regulatory / ethical consideration, data integrity | FAIR principles, Findability, Accessibility, Interoperability, and Reusability of digital assets |
+| General Plots with RStudio (similar to Excel operations) | Intermediate with RStudio general scripts to make histogram plots, bar charts, line graphs, and track data |
 
 ---
 
@@ -26,25 +28,15 @@ _Skills I have used in a guided setting and would need support to apply independ
 
 | Skill / Tool | What I can do with it / Experience Level |
 |---|---|
-| [e.g. Command-line navigation] | [e.g. Can run provided commands; not yet writing my own] |
-| BLAST, UCSC, Ensembl, ClinVar, RefSeq | Independently execute and understand nucleotide or protein searches, genome browser navigation, variant interpretation |
-| GenBank, UniProt, protein annotation databases | Genome browser navigation, variant interpretation. acrB (Bacteria antimicrobial resistance), bphA1 (B. Xenovorans- PCB environmental bioremediation)  |
-| InterPro, AlphaFold, Protein Database | Plant immunity, domains, motifs, structure-function analysis. Used fungi gene NPR3 (Arabidopsis niger) |
-| UCSC Genome Browser | Reference genome exploration and annotation of Homo sapiens GRCh38/h | 
-| BLASTP | Antimicrobial resistance and multidrug efflux pumps gene acrB (Bacteria antimicrobe resistance)  |
-| [Skill / Tool] | [What you can do] |
+| Command-line navigation | Cannot write but can run commands |
 | BLAST (seq searches), UCSC, Ensembl, ClinVar, RefSeq | BLAST, genome browser navigation, variant interpretation. TP53 (Human Tumour Protein 53) |
-| BLAST, GenBank, UniProt | [What you can do] |
+| BLAST, GenBank, UniProt | PCB biodegradation and environmental bioremediation. bphA1 (Burkholderia Xenovoraans) |
+| BLASTP, UniProt, protein annotation databases | Antimicrobial resistance and multidrug efflux pumps. acrB (Escherichia coli) |
+| UniProt, InterPro, AlphaFold, PDB | Plant immunity, domains, motifs, structure-function analysis. Used fungi gene NPR3 (Arabidopsis niger) |
+| UCSC Genome Browser, Ensembl, RefSeq | Reference genome exploration and annotation. Homo sapiens GRCh38/h gene segment. |
 | [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
-| [Skill / Tool] | [What you can do] |
-
-| [Skill / Tool] | [What you can do] |
-
 
 ---
 
-
-title: "Skills Snapshot"
 
  
