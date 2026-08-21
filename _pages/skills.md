@@ -29,6 +29,7 @@ _Skills I have used in a guided setting and would need support to apply independ
 |---|---|
 | Command-line navigation | Cannot write but can run commands |
 | Beginner Bioinformatics Knowledge | Annotation, genome transcriptomics, variant comparison, and database retrieval |
+| General Plots with RStudio (similar to Excel operations) | Intermediate with RStudio general scripts to make histogram plots, bar charts, line graphs, and track data |
 | Visual Basic, Python, C+ (High school) | Very basic scripts/ run comands/ excecutables |
 | Statistics and Data Plot Interpretation | Heat maps, volcano plots, Krona charts, ggplot2 taxonomy tree, etc |
 | Method of Computational Analysis | Reproducible workflows & data management file format troubleshooting & processing |
@@ -38,7 +39,6 @@ _Skills I have used in a guided setting and would need support to apply independ
 | BLASTP, UniProt, protein annotation databases | Antimicrobial resistance and multidrug efflux pumps. acrB (Escherichia coli) |
 | UniProt, InterPro, AlphaFold, PDB | Plant immunity, domains, motifs, structure-function analysis. Used fungi gene NPR3 (Arabidopsis niger) |
 | UCSC Genome Browser, Ensembl, RefSeq | Reference genome exploration and annotation. Homo sapiens GRCh38/h gene segment. |
-| General Plots with RStudio (similar to Excel operations) | Intermediate with RStudio general scripts to make histogram plots, bar charts, line graphs, and track data |
 | NCBI-BLAST, Ensembl, Uniprot | Database Use and retrieval, genome browsing, protein function |
 
 ---
