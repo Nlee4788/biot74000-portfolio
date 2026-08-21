@@ -12,7 +12,6 @@ _Tools, databases, and methods catalogue I have worked with. Curated and organiz
 ### Geneius, file type .fasta, .fastq, plain text/.ab1 ,  .scf, Biosystems chromatograms
 
 **Use example:** 
-
 Molecular Biology II course, Applied Biosystems chromatogram. The analysis of kale samples vs other vegetables or fish samples.
 
 **Strengths / Limitations:** 
@@ -26,7 +25,6 @@ not other databases of choice unless specialized payment
 ### Chromas, designed for viewing and editing chromatograms from automated DNA sequencing
 
 **Use example:** 
-
 Molecular Biology I course, Free software tool, plasmid and gene determination of food 
 
 **Strengths / Limitations:** 
@@ -47,8 +45,10 @@ Weak at the beginning and end of confidence
 BLASTp was used to find TP53 (Human Tumour Protein 53) in a database and determine the closest known relatives of a search for alignment comparison in lecture examples. A sequence query was also compared with examples of lower annotated quality primary sources. The E-values and confidence were observed for which hits were meaningful. Used to analyze TP53 (NM_000546) and compare against nucleotide collection databases. The second use was for the biodegradation of bphA1 and checking sequence homologs. Partial success with the whole genome of the fungal organism, but the exact gene was new and couldn't be located. 
 
 **Strengths / Limitations:** 
+
 Strengths: 
 Simple and fast locating/ identification of homologous genes, species, and conserved regions.
+
 Limitations/ Issues: 
 Similarity does not prove function. Similar sequences are shown, but the top hit by relevance score is not certain. Care is needed to avoid mix-ups
 
@@ -58,8 +58,10 @@ Similarity does not prove function. Similar sequences are shown, but the top hit
 Used to analyze TP53 (NM_000546) and compare against nucleotide collection databases; can also be applied to bphA1 for identifying homologs involving biodegradation
 
 **Strengths / Limitations:** 
+
 Strength: 
 Fast identification of homologous genes, species, and conserved regions
+
 Limitations/ Issues: 
 Similarity does not prove function
 
@@ -69,8 +71,10 @@ Similarity does not prove function
 Useful for comparing AcrB efflux pump proteins associated with antimicrobial resistance
 
 **Strengths / Limitations:** 
+
 Strength: 
 Functional predictions based on protein homology
+
 Limitations/ Issues: 
 Cannot definitively determine protein function
 
@@ -80,8 +84,10 @@ Cannot definitively determine protein function
 Can identify translated products of environmental biodegradation genes, such as bphA1
 
 **Strengths / Limitations:** 
+
 Strength: 
 Identifies proteins encoded by unknown DNA sequences
+
 Limitations/ Issues: 
 Computationally intensive
 
@@ -91,8 +97,10 @@ Computationally intensive
 Alignment of TP53 orthologs to identify conserved functional residues
 
 **Strengths / Limitations:** 
+
 Strength: 
 Easy web interface, widely used, shows sequence conservation
+
 Limitations/ Issues: 
 Less accurate for highly divergent datasets
 
@@ -102,8 +110,10 @@ Less accurate for highly divergent datasets
 Comparative analysis of resistant and susceptible acrB alleles
 
 **Strengths / Limitations:** 
+
 Strength: 
 Often higher accuracy for divergent sequences
+
 Limitations/ Issues: 
 Slower than Clustal for large datasets
 
@@ -117,8 +127,10 @@ Slower than Clustal for large datasets
 Bioinformatics, plant growth had messy flower and seed data. uses .csv file type.
 
 **Strengths / Limitations:** 
+
 Strength: 
 Nearly all computer users know how to manage general cell operations and data organization due to the availability and ease of use of adaptable resources.
+
 Limitations/ Issues: 
 Opening the file after download, or at any time, may break RStudio's readability or interpretability for the machine software at random. Needs to remain untouched. 
 
@@ -128,8 +140,10 @@ Opening the file after download, or at any time, may break RStudio's readability
 TP53 genomic features, ClinVar and gnomAD variant overlays
 
 **Strengths / Limitations:** 
+
 Strength: 
 Integrates many annotation layers
+
 Limitations/ Issues: 
 Requires familiarity with tracks
 
@@ -139,8 +153,10 @@ Requires familiarity with tracks
 Assessing confidence of NPR3 structure predictions
 
 **Strengths / Limitations:** 
+
 Strength: 
 Quickly identifies reliable regions
+
 Limitations/ Issues: 
 Confidence does not mean correct, just similar
 
@@ -154,8 +170,10 @@ Confidence does not mean correct, just similar
 Protein function of query. Searched the acrB protein sequence for an in-class activity (Bacteria antimicrobial resistance). Annotation quality assessment and example of antimicrobial resistance and multidrug efflux pumps. The first assignment tried bphA1 using (Burkholderia xenovorans- bioremediation with environmental biotech) but failed to find the protein. The Escherichia coli acrB protein/gene, associated with antimicrobial resistance and microbial genomics, was sought instead. This was easier to find due to the widespread study of E. coli. UniProtKB/Swiss-Prot, file type- FASTA, TSV, XML.
 
 **Strengths / Limitations:** 
+
 Strength: 
 High-quality reviewed annotations of the secondary database.
+
 Limitations/ Issues: 
 Not all proteins were reviewed, and some notes recorded on paper for the pipeline have been misplaced.  
 
@@ -165,8 +183,10 @@ Not all proteins were reviewed, and some notes recorded on paper for the pipelin
 Used to obtain the TP53 NM_000546 reference sequence during an in-class activity for the human tumour gene. File type- FASTA, Curated reference sequences. 
 
 **Strengths / Limitations:** 
+
 Strength: 
 High-quality reference data. Non-redundant and easy to check relevance to search or related hits. 
+
 Limitations/ Issues: 
 Some entries are temporary, provisional, and prone to changes in version. The website changed its name, and the new version was called something else. Needs to stay current with workflow history records, alongside keeping duplicates of older versions if necessary. 
 
@@ -176,8 +196,10 @@ Some entries are temporary, provisional, and prone to changes in version. The we
 Retrieval of gene sequences such as TP53 and bphA1
 
 **Strengths / Limitations:** 
+
 Strength: 
 Massive sequence repository
+
 Limitations/ Issues: 
 Annotation quality varies
 
@@ -187,8 +209,10 @@ Annotation quality varies
 Retrieval of protein records and annotation quality assessment in class activity/exercise 
 
 **Strengths / Limitations:** 
+
 Strength: 
 High-quality reviewed annotations
+
 Limitations/ Issues: 
 Not all proteins reviewed
 
@@ -198,8 +222,10 @@ Not all proteins reviewed
 Examined TP53 and genomic annotations on GRCh38
 
 **Strengths / Limitations:** 
+
 Strength: 
 Rich genomic annotations and BioMart export
+
 Limitations/ Issues: 
 Interface changes across versions
 
@@ -213,8 +239,10 @@ Interface changes across versions
 Navigation of TP53 on hg38/GRCh38 
 
 **Strengths / Limitations:** 
+
 Strength: 
 Extensive track visualization
+
 Limitations/ Issues: 
 Can be complex for beginners
 
@@ -224,8 +252,10 @@ Can be complex for beginners
 Examined transcript structures and variants for human tumour/ suppression genes 
 
 **Strengths / Limitations:** 
+
 Strength: 
 Detailed annotations and export tools
+
 Limitations/ Issues: 
 Less track customization than UCSC
 
@@ -235,8 +265,10 @@ Less track customization than UCSC
 Analysis of disease-associated TP53 and BRCA1 variants
 
 **Strengths / Limitations:** 
+
 Strength: 
 Clinical significance classifications
+
 Limitations/ Issues: 
 Interpretations may conflict
 
@@ -246,8 +278,10 @@ Interpretations may conflict
 Used to identify variant locations of seed expression in tomatoes
 
 **Strengths / Limitations:** 
+
 Strength: 
 Comprehensive SNP collection
+
 Limitations/ Issues: 
 No clinical interpretation
 
@@ -257,8 +291,10 @@ No clinical interpretation
 Identification of differentially expressed genes from RNA-seq data
 
 **Strengths / Limitations:** 
+
 Strength: 
 Primary/ Gold standard RNA-seq statistical framework
+
 Limitations/ Issues: 
 Requires replicate samples and proper design
 
@@ -272,8 +308,10 @@ Requires replicate samples and proper design
 Structural prediction of NPR3
 
 **Strengths / Limitations:** 
+
 Strength: 
 Structures available for most proteins
+
 Limitations/ Issues: 
 Predictions require confidence assessment (pLDDT)
 
@@ -283,8 +321,10 @@ Predictions require confidence assessment (pLDDT)
 Comparison with experimentally solved NPR1 structure
 
 **Strengths / Limitations:** 
+
 Strength: 
 Experimentally validated structures
+
 Limitations/ Issues: 
 Not all proteins have structures
 
@@ -294,8 +334,10 @@ Not all proteins have structures
 Identification of NPR3 functional domains
 
 **Strengths / Limitations:** 
+
 Strength: 
 Integrates many databases
+
 Limitations/ Issues: 
 Domain predictions are not always a functional proof
 
@@ -333,3 +375,5 @@ END
 Bottom
 
 title: "Bioinformatics Toolkit"
+
+
