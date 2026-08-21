@@ -2,10 +2,14 @@
 permalink: /toolkit/
 title: "Bioinformatics Toolkit"
 author_profile: true
+
 ---
 
-_Tools, databases, and methods catalogue I have worked with. Curated and organized by their use._
+_Tools, databases, and methods catalogue I have worked with. Curated and organized by their use. This shows my beginner's skills, where very little is something I could do independently_
 
+## [IMPORTANT NOTE: ASIDE FROM GENERAL PLOTS IN RSTUDIO OR SEQUENCE DATABASE RETRIEVAL, NONE OF THE TOOLS OR SHOWCASES ARE THINGS I COULD DO INDEPENDENTLY. THIS IS BASED ON A BEGINNER'S BIOINFORMATICS SKILL SET AND REFLECTS EXPERIENCE AND PRACTICED ACTIVITIES. WHILE THIS CATALOGUE IS NOT A COURSE SUMMARY, PARTS OF IT THAT DO NOT GO INTO DETAIL ARE DEVELOPMENTAL REFLECTION AND RECORDS RETAINED FOR FUTURE ADVANCEMENT.]  
+
+---
 
 ## Sequence Analysis and Data Visualization
 
@@ -376,3 +380,4 @@ Bottom
 
 title: "Bioinformatics Toolkit" 
 
+title: "Bioinformatics Toolkit"
